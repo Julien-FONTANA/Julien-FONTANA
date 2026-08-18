@@ -12,4 +12,4 @@ contact with production, and teams that don't need me in the room to do good wor
 > What's public here is my playground: katas, forks, side projects. The production work lives
 > behind a corporate firewall.
 
-📫 [LinkedIn]([https://www.linkedin.com/in/your-handle/](https://www.linkedin.com/in/julien-fontana-a7b936a3/)) — open to conversations about EM / lead .NET roles
+📫 [LinkedIn](https://www.linkedin.com/in/julien-fontana-a7b936a3/) — open to conversations about EM / lead .NET roles
