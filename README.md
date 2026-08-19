@@ -15,4 +15,5 @@ contact with production, and teams that don't need me in the room to do good wor
 > behind a corporate firewall and private repositories.
 
 📫 [LinkedIn](https://www.linkedin.com/in/julien-fontana-a7b936a3/) — open to conversations about EM / lead .NET roles
+
 🏢 [Portfolio](https://personal-porfolio-eight-hazel.vercel.app/) — my portfolio, a work in progress
